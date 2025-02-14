@@ -1,27 +1,43 @@
-👋 Hi, I’m @Sngklem  
-🌟 Aspiring Software Engineer with a passion for coding and problem-solving!  
+# Registration Form
 
-👀 Interests:  
-- Web Development 🌐  
-- Artificial Intelligence 🤖  
-- Open-Source Projects 🚀  
-- Exploring new technologies 🛠️  
+## About This Project
 
-🌱 Currently Learning:  
-- Advanced JavaScript and TypeScript  
-- PHP and Python  
-- Building scalable backend systems with Node.js  
-- Machine Learning fundamentals   
+**Registration Form** is a simple web-based sign-up form built using HTML. This form is designed to be user-friendly and efficiently collect user data.
 
-📫 How to Reach Me:  
-- Email: [faruq110803@gmail.com](mailto:faruq110803@gmail.com)  
-- YouTube: [@Sngklem](https://www.youtube.com/@Sngklem)  
+🔗 **Demo:** _[Registrations-Form](https://osengg.github.io/Registration-Form/)_
 
-😄 Nickname:  
-Oseng/Ruk
+## Features
 
-⚡ Fun Fact:  
-I can code for hours as long as there’s a plate of fried rice 🍳, a hot cup of coffee ☕, and a cigarette 🚬 to spark my creativity.  
+- ✅ Simple registration form
+- ✅ User-friendly design
+- ✅ Built with pure HTML
 
----  
-✨ This repository is special because it reflects my journey in tech. Feel free to explore, fork, or star it if you find something inspiring!  
+## Project Structure
+
+```bash
+Registration-Form/
+│── img.jpg              # Preview image
+│── index.html           # Main page
+│── pendaftaran.html     # Registration form page
+│── README.md            # Project documentation
+```
+
+## How to Run
+1. Clone this repository:
+   ```sh
+   git clone https://github.com/Osengg/Registration-Form.git
+   ```
+2. Open `index.html` in your browser.
+
+## Technologies Used
+🛠 HTML
+
+## Contribution
+If you want to contribute, feel free to fork this repository and create a pull request with your changes.
+
+## License
+🚀 Open-source, feel free to use and develop further!
+<br>
+<br>
+<br>
+Upload: _Dec 28, 2024_
